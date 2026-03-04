@@ -68,6 +68,15 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 * Character patterns
 * Butterfly, Diamond, Rhombus, etc.
 
+🔹 Bit Manipulation
+
+* Bitwise Operators (AND, OR, XOR, NOT, Left Shift, Right Shift)
+* Check Even or Odd using Bit Manipulation
+* Get Ith Bit
+* Set Ith Bit
+* Clear Ith Bit
+* Update Ith Bit
+
 ------------------------------------------------------------------------------------------------
 
 🎯 Purpose
