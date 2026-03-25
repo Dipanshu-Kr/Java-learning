@@ -40,6 +40,8 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 * Insertion Sort
 * Counting Sort
 * Inbuilt Sorting (Arrays.sort)
+* Merge Sort
+* Quick Sort
 
 🔹 **Matrices (2D Arrays)**
 
@@ -131,6 +133,17 @@ It includes fundamental concepts, problem-solving exercises, and DSA basics impl
 * User-defined packages
 * Importing classes from packages
 
+
+🔹 **Recursion**
+* PrintDecreasing / Increasing
+* Factorial
+* Fibonacci
+* FirstOccurrence / LastOccurrence
+* PowerOfN optimized version
+* AllOccurrences
+* TilingProblem
+* RemoveDuplicatesString
+* FriendsPairing
 ------------------------------------------------------------------------------------------------
 
 🎯 **Purpose**
